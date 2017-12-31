@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "outDir": "accidental-build",
     "target": "es6",
     "module": "commonjs",
     "strict": true,

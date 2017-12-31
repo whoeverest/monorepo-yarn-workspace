@@ -4,4 +4,4 @@ console.log('new function', newFunction());
 
 console.log(h4zip('andrej'));
 
-console.log('another', anotherNewFunction())
+console.log('another', anotherNewFunction());
